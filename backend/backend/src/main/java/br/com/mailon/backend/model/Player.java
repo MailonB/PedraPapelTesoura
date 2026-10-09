@@ -1,6 +1,5 @@
- 
-  
-   
+ package br.com.mailon.backend.model;
+
 import java.util.Random;
 
 public class Player {

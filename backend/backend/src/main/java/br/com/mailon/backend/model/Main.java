@@ -1,3 +1,4 @@
+package br.com.mailon.backend.model;
 import java.util.*;
 import java.util.Scanner;
 

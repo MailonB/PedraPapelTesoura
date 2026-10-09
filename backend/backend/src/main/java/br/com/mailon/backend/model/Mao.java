@@ -1,4 +1,4 @@
-package br.com.mailon.backend;
+package br.com.mailon.backend.model;
 
 public enum Mao {
     PEDRA,
